@@ -1,8 +1,7 @@
 # nyc-crashes
 ## Description
 This is a case we got from the mayor of New York City.  
-The police force of NY does a great job at registering every accident that happens in  
-their city. All these registrations go into one big database.
+The police force of NY does a great job at registering every accident that happens in their city.  All these registrations go into one big database.
 Our job was to explore that database, clean it, and get it ready to get put into a Machine Learning algorithm.
 
 
