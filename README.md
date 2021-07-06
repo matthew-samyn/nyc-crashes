@@ -27,6 +27,3 @@ https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9g
 
 ## Timeline
 05/07/2021 - 06/07/2021
-
-## Personal situation
-Struggling to understand the one-hot'n-coding.
