@@ -1,0 +1,1 @@
+I like the final product, even without the flattening. Overall, you did a good job and attempted to keep a decent project structure. It could be further modularized to be reused in the future (narrowing_down_factor -> narrow_down_features), but good work overall!
